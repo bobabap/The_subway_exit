@@ -31,15 +31,16 @@
 
 - 나가는 곳
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0b4a7dc6-9cd6-4bb8-a432-3c188558a4ac/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/87513112/190104487-22adceba-a5b6-47d4-9581-87692a85877f.png)
 
-![성능이 안 좋음](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6a337744-e66a-4b05-b671-165f9a334681/Untitled.png)
+![Untitled (1)](https://user-images.githubusercontent.com/87513112/190104541-5ee21ee0-6071-407f-8625-b68c2e3cd922.png)
 
 성능이 안 좋음
 
 - 비상구
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/00328116-2f24-4a8a-a503-c622d0a1f23f/Untitled.png)
+![Untitled (2)](https://user-images.githubusercontent.com/87513112/190104581-13ca7ab8-1035-4085-a457-1fcb79f9ccee.png)
+
 
 ---
 
@@ -59,3 +60,9 @@
 
 1. 지하철 뿐만 아니라 길 안내, 장애물 위치 안내, 찾는 간판, 등 확장 활용 (길거리 보행자 데이터 셋이 있음)
 2. 앱 사용시 간판 데이터 실시간 추가 수집하여 성능 개선
+
+![Untitled (3)](https://user-images.githubusercontent.com/87513112/190104679-b05bda57-372e-45b5-abd9-eb8651764884.png)
+
+![Untitled (4)](https://user-images.githubusercontent.com/87513112/190104691-333a0815-732b-4221-aa1a-cfca52b66972.png)
+
+![Untitled (5)](https://user-images.githubusercontent.com/87513112/190104701-6ce76483-704d-4a6b-be77-9a8c2e83fbdb.png)
