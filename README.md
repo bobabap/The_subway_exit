@@ -141,14 +141,14 @@ windows_v1.8.1
 4. 앱 사용시 간판 데이터 실시간 추가 수집하여 성능 개선
 5. 지하철 뿐만 아니라 길 안내, 장애물 위치 안내, 찾는 간판, 등 확장 활용 (길거리 보행자 데이터 셋이 있음)
 
-![장애물 경고](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c1149365-0855-4f5f-a861-bbd48e588549/Untitled.png)
+![Untitled (8)](https://user-images.githubusercontent.com/87513112/196915274-b0675682-daf8-4d39-be6c-49b75258c34c.png)
 
 장애물 경고
 
-![횡단보도를 건너도 되는지 물어보면 안내 음성](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d861cc1f-56c3-4fc9-ab11-9d782f576f73/Untitled.png)
+![Untitled (9)](https://user-images.githubusercontent.com/87513112/196915296-2a41045f-557b-4a87-9aa4-a994267848d1.png)
 
 횡단보도를 건너도 되는지 물어보면 안내 음성
 
-![원하는 상품 찾기](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d8af6a86-5770-48bf-8400-bdb8948cb3a6/Untitled.png)
+![Untitled (10)](https://user-images.githubusercontent.com/87513112/196915325-c449c58f-0ac4-48e3-a46e-40e566d216e2.png)
 
 원하는 상품 찾기
