@@ -28,7 +28,7 @@
     
 3. pyyaml 라이브러리로 기본 yolov5s.yaml(가벼운 모델링) 파일을 class 개수 2개로 custom yaml파일 저장
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/21415f2c-7ed1-45d5-9fd7-e80c1068a659/Untitled.png)
+![Untitled (2)](https://user-images.githubusercontent.com/87513112/196914657-f924d229-0afc-46bb-97b5-daf1d4ff1f79.png)
 
 1. 80 epochs학습
 2. 학습 완료된 [best.pt](http://best.pt) 저장
@@ -40,10 +40,12 @@
 1. 개화산역에서 왕십리 그리고 고속 터미널을 통해서 집으로 돌아오기까지 출구가 많은 역을 내려 표지판과 비상구 사진을 직접 각도를 달리하여 영상으로 찍고 프레임으로 나누어 약 500장으로 만듦
 2. 표지판 라벨링 후 train, validation set 나누기
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bf5aba3f-a796-4ade-87db-f4594b2e4891/Untitled.png)
-    
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ef1c5a17-f4b7-478d-812a-fd7d63c48200/Untitled.png)
-    
+![Untitled (3)](https://user-images.githubusercontent.com/87513112/196914709-9054c5c0-9f24-4da5-ab8b-464b20fc19a8.png)
+
+
+![Untitled (4)](https://user-images.githubusercontent.com/87513112/196914734-dd973120-4504-400a-9505-fc90973390f7.png)
+  
+
 3. 100 epochs학습
 
 > **라이브러리**
@@ -90,7 +92,7 @@ windows_v1.8.1
 
 ### 딥러닝 학습 사진 약 100장 결과 (2022.05.16 ~ 2022.05.23)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0b4a7dc6-9cd6-4bb8-a432-3c188558a4ac/Untitled.png)
+![Untitled (5)](https://user-images.githubusercontent.com/87513112/196914817-d1b77d0c-3cc5-4698-92d5-76192acbf1b9.png)
 
 **표지판 detection 정확도 0.75**
 
@@ -102,17 +104,16 @@ windows_v1.8.1
 
  **표지판 detection 정확도 0.82**
 
-![20171009123531_dftrqtwf.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1b1349c4-8d4d-4888-8ddb-ba3c91c4f3e4/20171009123531_dftrqtwf.jpg)
+![exit_image](https://user-images.githubusercontent.com/87513112/196914873-a67c5b55-4987-41b4-8da4-fde3187365ed.jpg)
 
-![8372546b580a89148e0be79842c66118.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5c5de29f-926e-437a-9797-4f0d2c1b6bf8/8372546b580a89148e0be79842c66118.jpg)
 
-![201311192201418902.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d14df68e-2c67-422a-94f4-92020b718672/201311192201418902.jpg)
+![20171009123531_dftrqtwf](https://user-images.githubusercontent.com/87513112/196914990-487637f5-711d-457d-98f0-09730804d441.jpg)
+![8372546b580a89148e0be79842c66118](https://user-images.githubusercontent.com/87513112/196914995-8b870361-0fd6-442d-afb7-d271f7c5b6fb.jpg)
+![201311192201418902](https://user-images.githubusercontent.com/87513112/196914998-e59201e6-bf4f-4279-a1cd-a23fa22907ee.jpg)
+![unknown](https://user-images.githubusercontent.com/87513112/196915000-c288dbfd-2836-490c-8e5c-3ddc36407c1f.png)
+![Untitled (6)](https://user-images.githubusercontent.com/87513112/196915002-7199cca8-cce8-4e23-a218-c5f0078d6b27.png)
+![Untitled (7)](https://user-images.githubusercontent.com/87513112/196915004-ccb874f1-cb09-409c-aa6f-11a4d02c738e.png)
 
-![unknown.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3da3298e-9772-49af-a2ba-d39388a19cba/unknown.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ec5b40db-263e-4515-87ef-82dc71016438/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/97a1e04f-1adf-4fa2-9d09-227ca1cca29d/Untitled.png)
 
 - 인식률이 떨어지거나
 - 어떤 사진은 관련 없는 다른 물체를 인식하는 경우가 있다.
