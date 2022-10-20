@@ -20,9 +20,11 @@
 2. 비상구 표지판 사진 크롤링 100장
 
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e59d5a39-c467-401c-985c-2d46ef19313c/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/87513112/196913883-02c75baa-e507-4a34-b014-b45c6834eb57.png)
+
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0aec9ecf-1852-4a7d-8a4a-36db4d159c36/Untitled.png)
+![Untitled (1)](https://user-images.githubusercontent.com/87513112/196913897-2c67d2f9-43d7-4d4c-a2b1-61657f96503c.png)
+
     
 3. pyyaml 라이브러리로 기본 yolov5s.yaml(가벼운 모델링) 파일을 class 개수 2개로 custom yaml파일 저장
 
