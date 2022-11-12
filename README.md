@@ -73,7 +73,6 @@
 
 ### 딥러닝 학습 사진 약 500장 결과 ****2차**** (**2022.09.16 ~ 2022.09.20**)
 
-![exit_image.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cc7e0325-59aa-4958-adda-def3c92115ae/exit_image.jpg)
 
  **표지판 detection 정확도 0.82**
  
