@@ -25,7 +25,8 @@
     
 3. pyyaml 라이브러리로 기본 yolov5s.yaml(가벼운 모델링) 파일을 class 개수 2개로 custom yaml파일 저장
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/21415f2c-7ed1-45d5-9fd7-e80c1068a659/Untitled.png)
+![Untitled (2)](https://user-images.githubusercontent.com/87513112/201474035-0678f8b7-f22b-4b9b-b361-065e178a7eff.png)
+
     
 4. 100 epochs학습
 5. 학습 완료된 [best.pt](http://best.pt) 저장
@@ -64,7 +65,7 @@
 
 ### 딥러닝 학습 사진 약 100장 결과 (2022.05.16 ~ 2022.05.23)
 
-![Untitled (5)](https://user-images.githubusercontent.com/87513112/196914817-d1b77d0c-3cc5-4698-92d5-76192acbf1b9.png)
+![Untitled (5)](https://user-images.githubusercontent.com/87513112/201474047-7b134620-5efd-42a2-83fe-7a542944efd0.png)
 
 **표지판 detection 정확도 0.75**
 
