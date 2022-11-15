@@ -65,16 +65,15 @@
 ### 딥러닝 학습 사진 약 100장 결과 (2022.05.16 ~ 2022.05.23)
 
 <img src=https://user-images.githubusercontent.com/87513112/201474047-7b134620-5efd-42a2-83fe-7a542944efd0.png  width="300" height="300"/>
-
 **표지판 detection 정확도 0.75**
 
 ---
 
 ### 딥러닝 학습 사진 약 500장 결과 ****2차**** (**2022.09.16 ~ 2022.09.20**)
 
-
- **표지판 detection 정확도 0.82**
+ 
 <img src=https://user-images.githubusercontent.com/87513112/196914873-a67c5b55-4987-41b4-8da4-fde3187365ed.jpg  width="300" height="300"/>
+**표지판 detection 정확도 0.82**
 
 <img src=https://user-images.githubusercontent.com/87513112/196914990-487637f5-711d-457d-98f0-09730804d441.jpg  width="300" height="300"/>
 
